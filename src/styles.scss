@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+body{ 
+        width: 100%;
+        padding: 0px;
+        height: 100%;
+        background: #000;
+        text-align: center;
+        margin: 0px;
+        
+    }
+    .container {
+        position: absolute;
+        top:47%;
+        left: 46%;
+        margin: auto;
+        display: inline-block;
+        text-align: center;
+       
+    }
+
+a {
+     color: greenyellow;
+        background: none;
+        border: 1px solid greenyellow;
+        font-size: 24px;
+        display: inline-block;
+        text-align: center;
+        padding: 4px;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+h3 {
+    color: greenyellow;
+}
